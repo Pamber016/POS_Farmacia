@@ -1,0 +1,29 @@
+## Issue number or task ID
+
+Closes #
+
+## Changes made
+<!-- Mandatory: Brief summary of the changes made -->
+
+<!-- Omit the following in the case of changes to documentation or other non-code related documents -->
+
+## How to test the changes
+<!-- Mandatory: Describe how to test the changes made or the steps to reproduce them, or provide a link to the documentation -->
+
+## Author checklist (to be completed by the author of the PR)
+
+- [ ] The code is readable and follows the conventions of CONTRIBUTING_GUIDE.md
+- [ ] The names are clear; functions with a single responsibility.
+
+TODO: Add checklist for tests, coverage, and static analysis.
+
+## PR Checklist (to be completed by the reviewer of the PR)
+
+- [ ] The code meets the acceptance criteria of the user story.
+- [ ] The code is well-structured and maintainable.
+- [ ] The code follows the best practices for the programming language used.
+- [ ] The code is readable and follows the conventions of CONTRIBUTING_GUIDE.md
+- [ ] The names are clear; functions with a single responsibility.
+- [ ] The code is well-documented.
+- [ ] The code is well-tested.
+- [ ] The code is well-maintained.

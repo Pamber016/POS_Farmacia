@@ -1,0 +1,11 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder Step
+        run: 'echo "TODO: Add steps to install dependencies, run tests, and perform static analysis."'
